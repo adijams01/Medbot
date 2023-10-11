@@ -22,7 +22,7 @@ Grade 304 stainless steel is generally regarded as the most common austenitic st
 * [Chandu Bayyavarapu](https://github.com/Chandu106)
 * [Aaditya Nair](https://github.com/ad5454)
 * [Prerna Sharma](https://github.com/prernasharma0)
-* [Angad Singh](https://github.com)
-* [Dherya Rana](https://github.com)
+* [Angad Singh](https://github.com/AnG0d)
+* [Dherya Rana](https://github.com/ranaDherya)
 
 
